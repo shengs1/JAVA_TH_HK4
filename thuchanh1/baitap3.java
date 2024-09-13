@@ -12,7 +12,7 @@ public class baitap3 {
     }  
     public static void hinhhai() {
         hinh1();
-        System.out.println("|     STOP     |");
+        System.out.println(" |    STOP    |");
         hinh2();
     }
     public static void hinhba() {
