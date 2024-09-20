@@ -24,5 +24,7 @@ public class thuchanh1{
         
         //dùng nối chuỗi
         System.out.println("Gia tri BMI 2: " + bmi);
+
+        System.out.println("5 " + "Hello " + ( 5+8));
     }
 }
