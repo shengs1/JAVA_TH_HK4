@@ -1,17 +1,19 @@
-public class thuchanh8 {
+public class thuchanh9 {
     public static void main(String[] args) {
-        line();
-        tophalf();
-        bottomhalf();
-        line();
-
+        hinh1();
+        hinh2();
+        hinh3();
+        hinh1();
+        hinh3();
+        hinh2();
+        hinh1();
     }
-    public static void line() {
-        System.out.println("+------+");
+    public static void hinh1() {
+        System.out.println("+----------+");
     }
-    public static void tophalf() {
+    public static void hinh2() {
         int i,j; // i là dòng , j là sl dấu 
-        for( i = 1; i <= 3; i++)
+        for( i = 1; i <= 5; i++)
         {
             
             System.out.print("|");
@@ -24,7 +26,7 @@ public class thuchanh8 {
             System.out.print("\\");
             
             //in dấu . lấy sl + 2 * dòng = 4+2 * dòng
-            for (j=1;j<=(6-2*i);j++)
+            for (j=1;j<=(10-2*i);j++)
             {
                 System.out.print(".");
             }
@@ -40,10 +42,9 @@ public class thuchanh8 {
             System.out.println();
         }
     }
-
-    public static void bottomhalf(){
+    public static void hinh3() {
         int i,j;
-        for( i = 3; i >= 1; i--)
+        for( i = 5; i >= 1; i--)
         {
             System.out.print("|");
         
@@ -55,7 +56,7 @@ public class thuchanh8 {
             System.out.print("/");
             
             //in dấu . lấy sl + 2 * dòng = 4+2 * dòng
-            for (j=1;j<=(6-2*i);j++)
+            for (j=1;j<=(10-2*i);j++)
             {
                 System.out.print(".");
             }
@@ -71,5 +72,4 @@ public class thuchanh8 {
             System.out.println();
         }
     }
-} 
-
+}
