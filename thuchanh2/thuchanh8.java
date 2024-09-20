@@ -43,7 +43,7 @@ public class thuchanh8 {
 
     public static void bottomhalf(){
         int i,j;
-        for( i = 3; i >= 1; i--)
+        for( i = 3; i >= 1; i--) // in ngược lại
         {
             System.out.print("|");
         
