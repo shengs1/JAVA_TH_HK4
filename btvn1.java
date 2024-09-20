@@ -7,7 +7,6 @@ public class btvn1 {
                 System.out.print("\\\\");
             }
 
-            //in dấu !; 18 là số lần in ban đầu + 2, 4 là hệ số print giảm * i, 
             for(j = 1; j <= (18-4*i); j++){
                 System.out.print("!");
             }
