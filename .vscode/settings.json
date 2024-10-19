@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Chuong3",
+        "Chuong2",
+        "Chuong1",
+        "Chuong4"
+    ],
+    "java.project.referencedLibraries": [
+        "bin/**"
+    ]
+}

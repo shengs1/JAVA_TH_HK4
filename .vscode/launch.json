@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CH1_Thuchanh1",
+            "request": "launch",
+            "mainClass": "CH1_Thuchanh1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CH1_Thuchanh1",
+            "request": "launch",
+            "mainClass": "CH1_Thuchanh1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH1_Thuchanh2",
+            "request": "launch",
+            "mainClass": "CH1_Thuchanh2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH1_Thuchanh3",
+            "request": "launch",
+            "mainClass": "CH1_Thuchanh3",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh1",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh2",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh3",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh3",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh4",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh4",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh5",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh5",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh6",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh6",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh7",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh7",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_thuchanh8",
+            "request": "launch",
+            "mainClass": "CH2_thuchanh8",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_rutgonth1",
+            "request": "launch",
+            "mainClass": "CH3_rutgonth1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh1",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh10",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh10",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh2",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh3",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh3",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh4",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh4",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh5",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh5",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh6",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh6",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh7",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh7",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh8",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh8",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh9",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh9",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh1",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh10",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh10",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh11",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh11",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh2",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh3",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh3",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh4",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh4",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh5",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh5",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh6",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh6",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh7",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh7",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh8",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh8",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH4_thuchanh9",
+            "request": "launch",
+            "mainClass": "CH4_thuchanh9",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "baitap1",
+            "request": "launch",
+            "mainClass": "baitap1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "baitap2",
+            "request": "launch",
+            "mainClass": "baitap2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "baitap3",
+            "request": "launch",
+            "mainClass": "baitap3",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "vehinh",
+            "request": "launch",
+            "mainClass": "vehinh",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "vehinh2",
+            "request": "launch",
+            "mainClass": "vehinh2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "vehinh3",
+            "request": "launch",
+            "mainClass": "vehinh3",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "vehinh4",
+            "request": "launch",
+            "mainClass": "vehinh4",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        }
+    ]
+}
