@@ -19,6 +19,5 @@ public class CH4_thuchanh11 {
             System.out.println();
 
         }
-        System.out.printf("75%%");
     }
 }
