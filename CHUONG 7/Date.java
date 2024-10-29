@@ -52,6 +52,7 @@ public class Date {
         }
         return false;
     }
+    //phương thức hộ trợ di chuyển đến ngày tiếp theo
     private void nextDays() {
         day++;
         if (day > daysIsMonth(month,year)) {
@@ -63,6 +64,7 @@ public class Date {
             }
         }
     }
+    //kiểm tra tháng đó bao nhiêu ngày
     private int daysIsMonth(int month, int year) {
         switch (month) {
             case 4: case 6: case 9: case 11:
@@ -81,8 +83,7 @@ public class Date {
         Date date = (Date) obj;
         return year == date.year && month == date.month && day == date.day; 
     }
-
-    //hàm in
+    //hàm in và ép kiểu thành chuỗi
     @Override
     public String toString() {
         return String.format("%04d/%02d/%02d", year, month, day);
