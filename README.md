@@ -2,8 +2,41 @@
 lệnh để lấy file bin
 javac -d bin BTVN/*.java "Chuong1"/*.java "Chuong2"/*.java "Chuong3"/*.java "Chuong4"/*.java
 
+Chương 2: 
+Cách dùng for để in hình: 
+1) in khoảng trắng: for(j = 1; j < (i - 1); j++)
+2) in ký tự: for(j = 1; j < (9 - 2 * j); j++) // (8 - 2 * i) tính bằng ((số ký tự cần in +2 ) -2 * j);
 
-
+vd 1:           vd2:
+    *******              *
+     *****              ***
+      ***              *****
+       *              *******
+giải:
+public static void vehinh1() {                          
+        for(int i = 1; i <= 4; i++){                   
+            for(int j = 1; j <= (i - 1); j++){   // in khoảng trắng        
+                System.out.print(" ");                 
+            }                                         
+            for(int j = 1; j <= (9 - 2 * i); j++){    // in ký tự
+                System.out.print("*");               
+            }                                        
+            System.out.println();                            
+        }                                                     
+    }    
+                                       
+public static void vehinh2() {            
+        for(int i = 4; i >= 1; i--){      
+            for(int j = 1; j <= (i - 1); j++){   
+                System.out.print(" ");   
+            }    
+            for(int j = 1; j <= (9 - 2 * i); j++){  
+                System.out.print("*");  
+            }
+            System.out.println();        
+        }                                                           
+    }      
+                                                         
 
 
 Chương 4:
