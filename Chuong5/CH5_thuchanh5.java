@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class CH5_thuchanh5 {
