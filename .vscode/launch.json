@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TEST4",
+            "request": "launch",
+            "mainClass": "TEST4",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
             "name": "CH5_thuchanh7",
             "request": "launch",
             "mainClass": "CH5_thuchanh7",
