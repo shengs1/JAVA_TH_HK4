@@ -1,3 +1,5 @@
+package BTVN;
+
 public class thuchanh9 {
     public static void main(String[] args) {
         hinh1();

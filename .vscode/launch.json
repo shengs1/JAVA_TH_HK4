@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TEST2",
+            "request": "launch",
+            "mainClass": "In.TEST2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh12",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh12",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH3_thuchanh11",
+            "request": "launch",
+            "mainClass": "CH3_thuchanh11",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "thuchanh9",
+            "request": "launch",
+            "mainClass": "BTVN.thuchanh9",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "BTVN1",
+            "request": "launch",
+            "mainClass": "BTVN.BTVN1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "BTVN2",
+            "request": "launch",
+            "mainClass": "BTVN.BTVN2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "CH2_btvn1",
+            "request": "launch",
+            "mainClass": "BTVNTH.CH2_btvn1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "btvn1",
+            "request": "launch",
+            "mainClass": "In.BTVN.btvn1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "btvn1",
+            "request": "launch",
+            "mainClass": "BTVN.btvn1",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "TEST2",
+            "request": "launch",
+            "mainClass": "TEST2",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "TEST3",
+            "request": "launch",
+            "mainClass": "TEST3",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
+            "name": "TEST",
+            "request": "launch",
+            "mainClass": "TEST",
+            "projectName": "JAVA_TH_HK4_e70b6bea"
+        },
+        {
+            "type": "java",
             "name": "TEST4",
             "request": "launch",
             "mainClass": "TEST4",
