@@ -4,10 +4,12 @@ import java.util.*;
 
 public class C9_TH4 {
     public static void main(String[] args) {
+        //Bước 1 và 2;
         ArrayList<String> ungvien = new ArrayList<>();
         ArrayList<String> phieubau = new ArrayList<>();
 
         try (Scanner input = new Scanner(new File("phieu.txt"))) {
+            //Bước 3 và 4:
             while (input.hasNext()) {
                 String vote = input.next();
                 phieubau.add(vote);
@@ -23,10 +25,12 @@ public class C9_TH4 {
 
             input.close();
 
+            //Bước 5:
             Collections.sort(ungvien);
 
             int[] demphieu = new int[ungvien.size()];
-
+            
+            //Bước 6 và 7:
             for (String vote : phieubau) {
                 for (int i = 0; i < vote.length(); i++) {
                     char candidate = vote.charAt(i);
@@ -37,6 +41,7 @@ public class C9_TH4 {
                 }
             }
 
+            //Bước 8:
             int maxVotes = 0;
             String winner = "";
             for (int i = 0; i < demphieu.length; i++) {
